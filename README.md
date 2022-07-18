@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Praveen-Patil-0903
-- 👀 I’m interested in "data Engineering"
+- 👀 I’m interested in "Data Engineering"
 - 🌱 I’m currently learning "FSDS course from iNeuron
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 9108987986 or praveenhpatil94gmail.com
